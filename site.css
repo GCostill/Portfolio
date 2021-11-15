@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+.hero{
+    height: 30em;
+}
+
+#heroImage{
+    background-image: url(/img/kayaking.JPG);
+    max-width: 100%;
+}
+
+.content{
+    padding: 4em 10em 4em 10em; 
+}
+
+#contact{
+    text-align: center;
+}
+
+#projects, #about, #contact, .projects{
+    padding: 1em;
+}
+
+.footer{
+    height: 4em;
+    background-color: #56A5EC;
+    text-align: center;
+}
+
+.icon{
+    max-height: 40px;
+}
