@@ -15,8 +15,12 @@ body{
     padding: 4em 10em 4em 10em; 
 }
 
-#contact{
+#contact, #projects{
     text-align: center;
+}
+
+#projects{
+    background-color: #d8d8d8 ;
 }
 
 #projects, #about, #contact, .projects{
@@ -29,6 +33,11 @@ body{
     text-align: center;
 }
 
+.projectImages{
+    max-height: 200px;
+    margin: 1em;
+}
+
 .icon{
-    max-height: 40px;
+    max-height: 70px;
 }
