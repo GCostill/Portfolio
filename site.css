@@ -14,7 +14,7 @@ body{
 
 #heroImage{
     position: relative;
-    background-image: url(/img/kayaking.JPG);
+    background-image: url(./img/kayaking.JPG);
     height: 100%;
     width: 100%;
     background-size: 100% 120%;
